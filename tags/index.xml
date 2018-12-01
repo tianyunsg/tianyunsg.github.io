@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Timer | Responsive Multipurpose Bootstrap Hugo Template</title>
+    <link>http://tianyunsg.github.io/tags/</link>
+    <description>Recent content in Tags on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Feb 2013 12:21:58 +0600</lastBuildDate>
+    
+	<atom:link href="http://tianyunsg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business</title>
+      <link>http://tianyunsg.github.io/tags/business/</link>
+      <pubDate>Thu, 14 Feb 2013 12:21:58 +0600</pubDate>
+      
+      <guid>http://tianyunsg.github.io/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://tianyunsg.github.io/tags/people/</link>
+      <pubDate>Thu, 14 Feb 2013 12:21:58 +0600</pubDate>
+      
+      <guid>http://tianyunsg.github.io/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>戏曲</title>
+      <link>http://tianyunsg.github.io/tags/%E6%88%8F%E6%9B%B2/</link>
+      <pubDate>Wed, 13 Feb 2013 12:27:38 +0600</pubDate>
+      
+      <guid>http://tianyunsg.github.io/tags/%E6%88%8F%E6%9B%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>演出</title>
+      <link>http://tianyunsg.github.io/tags/%E6%BC%94%E5%87%BA/</link>
+      <pubDate>Wed, 13 Feb 2013 12:27:38 +0600</pubDate>
+      
+      <guid>http://tianyunsg.github.io/tags/%E6%BC%94%E5%87%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>道具</title>
+      <link>http://tianyunsg.github.io/tags/%E9%81%93%E5%85%B7/</link>
+      <pubDate>Tue, 05 Feb 2013 12:29:40 +0600</pubDate>
+      
+      <guid>http://tianyunsg.github.io/tags/%E9%81%93%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
